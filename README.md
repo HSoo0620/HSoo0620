@@ -4,12 +4,10 @@
 - 🌏 I am from South Korea and living in Sungnam.
 - 📫 How to reach me: above1999@gmail.com.
 
-<hr/>
+***
 
 <a href="https://github.com/HSoo0620"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=HSoo0620&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="HSoo0620's github stats" /></a>
 <a href="https://github.com/HSoo0620/"><img align="center" style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSoo0620&layout=compact&theme=onedark&hide_border=true" /></a> 
-
-<hr/>
 
 <div align="center">
 <a href ="https://www.notion.so/soovml/Hyensoo-Jang-d9742c2500ab4b5587a94f4a8608069e"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
