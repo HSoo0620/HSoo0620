@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💻 I'm AI Research Scientist & Engineer Interested in Computer Vision.
-- 🔭 I’m currently working on SNUAIALB.
+- 🔭 I’m currently working on SNUAILAB.
 - 🌏 I am from South Korea and living in Sungnam.
 - 📫 How to reach me: above1999@gmail.com.
 
